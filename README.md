@@ -1,1 +1,2 @@
-# simonkim1.github.io
+# Hello!
+# Welcome Stranger
